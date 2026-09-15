@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="70"
+   height="60"
+   viewBox="0 0 18.520832 15.875"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="LTI-Logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="29.252266"
+     inkscape:cy="27.192122"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-281.125)">
+    <g
+       id="g4512"
+       transform="matrix(0.00331695,0,0,0.00331695,-25.472354,239.87182)"
+       style="clip-rule:evenodd;fill:#000000;fill-opacity:1;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
+      <path
+         style="fill:#000000;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         id="path9"
+         d="m 7702.19,17186.8 c 0,-1577.34 0,-3152.14 0,-4726.94 353.06,0 706.12,0 1059.18,0 0,1221.74 0,2443.48 0,3667.76 447.04,0 894.08,0 1341.12,0 0,353.06 0,706.12 0,1059.18 -800.1,0 -1600.2,0 -2400.3,0 z"
+         class="fil1" />
+      <path
+         style="fill:#000000;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         id="path11"
+         d="m 10242.19,17186.8 c 0,-1224.28 0,-2446.02 0,-3667.76 -281.94,0 -563.88,0 -845.82,0 0,-353.06 0,-706.12 0,-1059.18 894.08,0 1788.16,0 2682.24,0 0,353.06 0,706.12 0,1059.18 -259.08,0 -518.16,0 -777.24,0 0,1221.74 0,2443.48 0,3667.76 -353.06,0 -706.12,0 -1059.18,0 z"
+         class="fil1" />
+      <path
+         style="fill:#000000;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         id="path13"
+         d="m 12182.75,17186.8 c 0,-1186.18 0,-2374.9 0,-3563.62 353.06,0 706.12,0 1059.18,0 0,1186.18 0,2374.9 0,3563.62 -353.06,0 -706.12,0 -1059.18,0 z"
+         class="fil1" />
+      <path
+         style="fill:#000000;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         id="path15"
+         d="m 12182.75,13519.04 c 0,-353.06 0,-706.12 0,-1059.18 353.06,0 706.12,0 1059.18,0 0,353.06 0,706.12 0,1059.18 -353.06,0 -706.12,0 -1059.18,0 z"
+         class="fil1" />
+    </g>
+  </g>
+</svg>
